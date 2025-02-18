@@ -1,0 +1,10 @@
+{
+  "description": "Personal website",
+  "owner": {
+    "username": "hongductb",
+    "email": "khongcotenmoi@gmail.com"
+  },
+  "record": {
+    "CNAME": "hongductb.github.io"
+  }
+}
